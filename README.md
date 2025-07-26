@@ -27,7 +27,7 @@ Este es un proyecto desarrollado en **Java** como trabajo integrador final para 
 La aplicación se conecta a una base de datos **MySQL**.  
 La configuración de acceso (usuario, contraseña, URL) está definida en una clase dedicada, como `Conexion.java`.
 
-> Se recomienda ejecutar el script `database.sql` (si está disponible) antes de lanzar la aplicación para crear las tablas necesarias.
+> Se recomienda ejecutar el script `database.sql` antes de lanzar la aplicación para crear las tablas necesarias.
 
 ---
 
